@@ -1,0 +1,22 @@
+{
+  "name": "conductor.js",
+  "version": "0.2.13",
+  "main": "./conductor-0.3.0.js",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "component.json",
+    "package.json",
+    "lib",
+    "config",
+    "sample",
+    "test",
+    "tests",
+    "ngdoc_assets",
+    "Gruntfile.js",
+    "files.js"
+  ]
+}
